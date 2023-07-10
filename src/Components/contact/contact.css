@@ -51,7 +51,7 @@ textarea {
 /* media queries */
 /* medium screen  */
 @media screen and (max-width: 1024px) {
-  .container.contact_container {
+  .container.contact__container {
     grid-template-columns: 1fr;
     gap: 2rem;
   }

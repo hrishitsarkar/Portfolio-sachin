@@ -44,6 +44,9 @@
 /* media queries */
 /* medium screen  */
 @media screen and (max-width: 1024px) {
+  #experience {
+    margin-top: 12rem;
+  }
   .services__container {
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
