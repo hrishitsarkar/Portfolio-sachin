@@ -37,7 +37,7 @@
 /* medium screen  */
 @media screen and (max-width: 1024px) {
   #skills {
-    margin-top: 22rem;
+    margin-top: 2rem;
   }
   .skill__Container {
     grid-template-columns: 1fr;
